@@ -5,11 +5,11 @@
 
 
 ## What does this project do?😊
-###### Users can choose the class you want to take at the HGU CSEE and write a timetalbe. A warning is given if the entered classes overlap in time. If users enter classes without ovelapping classes, they will be informed by calculating the number of classes and the total credit, and a timetable will be created with the file name they wrote together when entering executing sentence.
+###### Users can choose the class you want to take at the HGU CSEE and write a timetable. A warning is given if the entered classes overlap in time. If users enter classes without ovelapping classes, they will be informed by calculating the number of classes and the total credit, and a timetable will be created with the file name they wrote together when entering executing sentence.
 
 
 ## Why is this project useful?😁
-###### Students have difficulty in checking overlapping classes when they make a timetable before registering for classes. It prevents this and they can know the tottal credit at the same tiem. Finally, they can receive the timetable as a CSV file, which makes it more convenient.
+###### Students have difficulty in checking overlapping classes when they make a timetable before registering for classes. It prevents this and they can know the total credit at the same tiem. Finally, they can receive the timetable as a CSV file, which makes it more convenient.
 
 
 ## How do I get started?😉
