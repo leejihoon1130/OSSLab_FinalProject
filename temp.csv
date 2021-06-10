@@ -1,0 +1,58 @@
+ECE10004,1,Introduction to Computer Science and Electrical Engineering,2,Mon6/Mon7,NTH 412,PF
+ECE20007,1,Basic Electrical Engineering Experiments,3,Tue7/Thu7,NTH 417,PF
+ECE20007,2,Basic Electrical Engineering Experiments,3,Mon7/Thu7,NTH 417,PF
+ECE20010,1,Data Structure,3,Mon1/Mon2/Thu2,OH 319,A+
+ECE20010,2,Data Structure,3,Mon6/Mon7/Thu6,OH 305,A+
+ECE20010,3,Data Structure,3,Mon1/Mon2/Thu2,NTH 311,A+
+ECE20010,4,Data Structure,3,Mon6/Mon7/Thu6,ANH 313,A+
+ECE20016,1,Introduction to JAVA Programming,3,Tue1/Tue2/Fri2,NTH 417,A+
+ECE20016,2,Introduction to JAVA Programming,3,Tue5/Tue6/Fri6,NTH 417,A+
+ECE20016,3,Introduction to JAVA Programming,3,Mon2/Thu1/Thu2,NTH 417,A+
+ECE20023,1,Open-source Software Lab,2,Tue2/Fri2,NTH 220,A+
+ECE20023,2,Open-source Software Lab,2,Tue3/Fri3,NTH 220,A+
+ECE20051,1,Circuit Theory 1,3,Mon5/Thu5,NTH 313,A+
+ECE20051,2,Circuit Theory 1,3,Mon6/Thu6,NTH 313,A+
+ECE20057,1,Logic Design,3,Mon2/Thu2,NTH 313,A+
+ECE20057,2,Logic Design,3,Mon3/Thu3,NTH 313,A+
+ECE20057,4,Logic Design,3,Tue2/Fri2,OH 401,A+
+ECE30002,1,Mobile App Development,3,Mon1/Mon2/Thu2,NTH 412,A+
+ECE30004,1,Smart System Laboratory,2,Mon7/Mon8,NTH 413,PF
+ECE30007,1,Introduction to Artificial Intelligence Project,2,Tue5/Tue6,NTH 412,PF
+ECE30007,2,Introduction to Artificial Intelligence Project,2,Tue5/Tue6,NTH 313,PF
+ECE30007,3,Introduction to Artificial Intelligence Project,2,Tue1/Tue2,NTH 313,PF
+ECE30011,1,Algorithm Analysis,3,Mon2/Thu2,OH 401,A+
+ECE30011,2,Algorithm Analysis,3,Mon3/Thu3,OH 401,A+
+ECE30021,1,Operating System,3,Mon4/Thu4,NTH 412,A+
+ECE30021,2,Operating System,3,Mon5/Thu5,NTH 412,A+
+ECE30030,1,Data-Base,3,Mon5/Thu5,OH 401,A+
+ECE30039,1,Vocation and Career Planning(CSEE),1,Wed4,OH 405,A+
+ECE30051,1,Electronic Circuits 1,3,Tue2/Fri2,NTH 311,A+
+ECE30063,1,Semiconductor Physics,3,Tue6/Fri6,NTH 311,A+
+ECE30075,1,Embedded Processor Application,3,Mon5/Mon9/Thu5,NTH 417,A+
+ECE30083,1,Principles of Communication,3,Tue4/Fri4,OH 401,A+
+ECE30092,1,Engineering Project Planning,2,Wed8/Wed9,OH 401,PF
+ECE40008,1,RF Circuit Design,3,Tue5/Fri5,NTH 311,A+
+ECE40035,1,Introduction to Deep Learning,2,Thu5/Thu6,NTH 214,A+
+ECE40081,1,Digital Communication,3,Mon4/Thu4,NTH 220,A+
+ECE40084,1,Introduction to Digital Signal Processing,3,Mon3/Thu3,NTH 311,A+
+ECE40093,1,Capstone Design,4,Wed8/Wed9,NTH 313,A+
+ECE40093,2,Capstone Design,4,Wed8/Wed9,NTH 412,A+
+ECE40093,3,Capstone Design,4,Wed8/Wed9,NTH 311,A+
+ECE40093,4,Capstone Design,4,Wed8/Wed9,NTH 220,A+
+ECE40093,5,Capstone Design,4,Wed8/Wed9,ANH 313,A+
+ITP20001,2,Data Structures,3,Tue6/Tue7/Fri6,NTH 220,A+
+ITP20003,1,Java Programming,3,Mon5/Thu5/Thu6,NTH 413,A+
+ITP20004,1,Open-source Software Laboratories,2,Mon2/Thu2,NTH 220,A+
+ITP20004,2,Open-source Software Laboratories,2,Mon3/Thu3,NTH 220,A+
+ITP20007,1,Logic Design,3,Tue3/Fri3,OH 405,A+
+ITP20007,2,Logic Design,3,Tue6/Fri6,OH 401,A+
+ITP30002,1,Operating Systems,3,Tue2/Fri2,NTH 412,A+
+ITP30002,2,Operating Systems,3,Tue6/Fri6,OH 305,A+
+ITP30005,1,Algorithms Analysis,3,Tue2/Fri2,OH 319,A+
+ITP30005,2,Algorithms Analysis,3,Tue3/Fri3,OH 319,A+
+ITP30008,1,Object-Oriented Design Pattern,3,Tue4/Fri4,NTH 313,A+
+ITP30010,1,Database System,3,Mon3/Thu3,NTH 412,A+
+ITP30010,2,Database System,3,Mon6/Thu6,OH 401,A+
+ITP40002,1,Software Engineering,3,Mon4/Thu4,NTH 313,A+
+ITP40003,1,Computer Graphics,3,Mon5/Thu5,NTH 311,A+
+ITP40004,1,Compiler Theory,3,Tue3/Fri3,NTH 313,A+
