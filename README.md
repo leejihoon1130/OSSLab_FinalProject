@@ -1,5 +1,5 @@
 # OSS Lab Final Project(HGU 2021-1)
-#### Who am I? : 21500479, Lee JiHoon, HGU, CSEE
+## 21500479, Lee JiHoon, HGU, CSEE
 #### Project name : Course application and timetable production with Shell Script
 #### Video(Youtube) Link : 
 
